@@ -1,4 +1,5 @@
 import streamlit
 
-streamlit.title ('Our new Christmas tree arrived today')
-streamlit.text('we''re so excited')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text ('Kale & Rocket Smootie')
